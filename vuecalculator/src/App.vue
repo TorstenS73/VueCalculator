@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <h1><span><img src="./assets/logo.png"></span>ue Calculator </h1>
+    <Owners></Owners>
     <Calculator></Calculator>
   </div>
 </template>
