@@ -7,10 +7,12 @@
 
 <script>
 import Calculator from './components/Calculator.vue'
+import Owners from './components/Owners.vue'
 
 export default {
   name: 'app',
   components: {
+    Owners,
     Calculator
   }
 }
